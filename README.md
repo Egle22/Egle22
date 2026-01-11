@@ -49,9 +49,8 @@ Building a distributed machine learning pipeline to analyze and forecast gas pri
 ## 📫 Get in Touch
 
 - 📧 **Email**: egle.caudullo.22@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/egle-caudullo]([https://linkedin.com/in/egle-caudullo](https://www.linkedin.com/in/egle-caudullo-177993266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brt%2Fb7DsUSTSjZBFz8WBfRQ%3D%3D)
-- 📄 **CV**: [Download PDF](link-to-cv)
-
+- 💼 **LinkedIn**:[https://linkedin.com/in/egle-caudullo](https://www.linkedin.com/in/egle-caudullo-177993266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brt%2Fb7DsUSTSjZBFz8WBfRQ%3D%3D)
+- 📄 **CV**: 
 ---
 
 ## 🎯 Research Interests
