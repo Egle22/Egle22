@@ -23,14 +23,6 @@
 **Technologies**: Python, PyTorch Geometric, Time Series Analysis, Multi-Label Classification  
 Developed a GNN-based pipeline for fault detection in aircraft engines using operational sensor data. Implemented message-passing and attention-based architectures, benchmarked performance, and explored graph structure learning to capture fault propagation patterns across engine modules.
 
-### [📊 Churn Prediction Model - BCG-X Industry Challenge](link-to-repo)
-**Technologies**: R, Machine Learning, Business Analytics  
-Built an end-to-end churn prediction workflow integrating structured and textual data. Developed ML models with strong business interpretation, focusing on actionable insights for customer retention strategies.
-
-### [🌐 Network Analysis on Large-Scale Social Graphs](link-to-repo)
-**Technologies**: Neo4j, Cypher, Python, Graph Theory  
-Analyzed large-scale networks including Amazon co-purchasing data and Facebook page networks. Performed community detection, centrality analysis, and network visualization using graph database technologies.
-
 ### [💬 Natural Language Processing - Large Language Models Project](link-to-repo) `🚧 In Progress`
 **Technologies**: Python, Transformers, NLP, Deep Learning  
 Final project focused on advanced NLP techniques including embeddings, text classification, and working with large language models for semantic analysis and language understanding tasks.
@@ -44,6 +36,15 @@ Developing two NER systems using IOB tagging scheme to detect entities (PER, ORG
 **Technologies**: PySpark, Spark ML, Time Series, Big Data Processing  
 **Status**: *Currently in progress*  
 Building a distributed machine learning pipeline to analyze and forecast gas prices in France (2022-2024). Implementing data preprocessing, feature engineering (lag features, price indexes), visualization, and predictive modeling using Spark ML regressors (LinearRegression, RandomForest).
+
+### [🌐 Global Air Transport Network Analysis](https://github.com/Egle22/global-air-transport-network-analysis)
+**Technologies**: Neo4j, Cypher, Python, Graph Theory  
+Graph database analysis of 67K routes across 14K airports. Centrality metrics, community detection, inequality analysis (Gini: 0.807).
+
+### [📊 Nile River Time Series Analysis](https://github.com/Egle22/nile-time-series-analysis)
+**Technologies**: R, State Space Models, Kalman Filter, Maximum Likelihood  
+Local Level Model analysis of Nile River flow with Kalman filtering/smoothing and BFGS parameter estimation.
+
 ---
 
 ## 📫 Get in Touch
