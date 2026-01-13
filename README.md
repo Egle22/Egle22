@@ -78,7 +78,7 @@ I'm currently seeking a **research internship** (February 2026) to complete my M
 - Developing **NLP models** (LSTM and BERT) for Named Entity Recognition tasks
 - Building a **Spark ML pipeline** for gas consumption forecasting in France
 - Conducting literature review on graph-based anomaly detection methods
-- Preparing research internship applications for thesis work in network science and deep learning (February 2026)
+- Preparing research internship applications for thesis work in network science and deep learning (March 2026)
 ---
 
 *Feel free to explore my repositories and reach out if you'd like to collaborate!* 🚀
