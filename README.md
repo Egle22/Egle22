@@ -41,6 +41,10 @@ Building a distributed machine learning pipeline to analyze and forecast gas pri
 **Technologies**: Neo4j, Cypher, Python, Graph Theory  
 Graph database analysis of 67K routes across 14K airports. Centrality metrics, community detection, inequality analysis (Gini: 0.807).
 
+### [📉 Customer Churn Prediction (BCG X)](https://github.com/Egle22/Telecom-Churn-prediction-project)
+**Technologies**: Python, XGBoost, Feature Engineering, SMOTE  
+ML pipeline for energy sector churn prediction. Feature engineering, ensemble models, class imbalance handling. [X% F1-score].
+
 ### [📊 Nile River Time Series Analysis](https://github.com/Egle22/nile-time-series-analysis)
 **Technologies**: R, State Space Models, Kalman Filter, Maximum Likelihood  
 Local Level Model analysis of Nile River flow with Kalman filtering/smoothing and BFGS parameter estimation.
