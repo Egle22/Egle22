@@ -37,7 +37,7 @@ Developing two NER systems using IOB tagging scheme to detect entities (PER, ORG
 **Status**: *Currently in progress*  
 Building a distributed machine learning pipeline to analyze and forecast gas prices in France (2022-2024). Implementing data preprocessing, feature engineering (lag features, price indexes), visualization, and predictive modeling using Spark ML regressors (LinearRegression, RandomForest).
 
-### [🌐 Global Air Transport Network Analysis](https://github.com/Egle22/global-air-transport-network-analysis)
+### [🌐 Global Air Transport Network Analysis](https://github.com/Egle22/-global-air-transport-network-analysis)
 **Technologies**: Neo4j, Cypher, Python, Graph Theory  
 Graph database analysis of 67K routes across 14K airports. Centrality metrics, community detection, inequality analysis (Gini: 0.807).
 
