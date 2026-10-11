@@ -21,12 +21,12 @@
 
 ## 🚀 Featured Projects
 
-### [🧭 Master's Thesis: US Case Study on Identity Economics](link-to-repo)
+### [🧭 Master's Thesis: US Case Study on Identity Economics](https://github.com/Egle22/ml-cultural-polarization)
 **Technologies**: Unsupervised Learning, Clustering, World Values Survey  
 Tests whether American value orientations in the World Values Survey form discrete groups. 
  
 
-### [🔧 Graph Neural Networks for Aircraft Engine Fault Detection](link-to-repo)
+### [🔧 Graph Neural Networks for Aircraft Engine Fault Detection](https://github.com/Egle22/SAFRAN_ENSAI_2025_GNN_Engine)
 **Technologies**: Python, PyTorch Geometric, Time Series Analysis, Multi-Label Classification  
 Developed a GNN-based pipeline for fault detection in aircraft engines using operational sensor data. Implemented message-passing and attention-based architectures, benchmarked performance, and explored graph structure learning to capture fault propagation patterns across engine modules.
 
@@ -39,7 +39,7 @@ Final project focused on advanced NLP techniques including embeddings, text clas
 **Status**: *Currently in progress*  
 Developing two NER systems using IOB tagging scheme to detect entities (PER, ORG, LOC, MISC). Implementing both RNN-based (embedding + LSTM + feed-forward) and fine-tuned BERT models for sequence labeling tasks.
 
-### [⛽ Gas Consumption Forecasting with Apache Spark](link-to-repo) 
+### [⛽ Gas Consumption Forecasting with Apache Spark](https://github.com/Egle22/Spark-mini-project) 
 **Technologies**: PySpark, Spark ML, Time Series, Big Data Processing  
 **Status**: *Currently in progress*  
 Building a distributed machine learning pipeline to analyze and forecast gas prices in France (2022-2024). Implementing data preprocessing, feature engineering (lag features, price indexes), visualization, and predictive modeling using Spark ML regressors (LinearRegression, RandomForest).
